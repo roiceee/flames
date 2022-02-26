@@ -1,0 +1,68 @@
+[33mcommit cb1668e4b381e1ffca60022c5e7189dda52a91bf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: roice <jroicealdeza@gmail.com>
+Date:   Sat Feb 26 23:03:29 2022 +0800
+
+    This is a subject line
+    
+    This is a body jajajajajajajajajaajaj
+
+[33mcommit 80efa76312a1fd1a278922f4c14ddbdca635195a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 5db8ba7 aec80a2
+Author: roice <jroicealdeza@gmail.com>
+Date:   Fri Feb 25 11:46:42 2022 +0800
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit 5db8ba7ad705fa9f91be2896274f5964baf7c777[m
+Author: roice <jroicealdeza@gmail.com>
+Date:   Fri Feb 25 11:44:41 2022 +0800
+
+    Hey! I would like to commit this file. Thanks!
+
+[33mcommit 2b90b3cb555f47f0c95908de8f45793df2bcc095[m
+Author: roice <jroicealdeza@gmail.com>
+Date:   Fri Feb 25 11:39:15 2022 +0800
+
+    I would like to add file.txt to the branch please. I love you
+
+[33mcommit aec80a21d0641a0c3fbf367fc7fd727266a3d62f[m
+Author: jroiceee <94068264+jroiceee@users.noreply.github.com>
+Date:   Fri Feb 25 11:35:43 2022 +0800
+
+    Delete whatthefuck.txt
+
+[33mcommit 46fa0181113015435dee78a3790e91ae5500ab96[m
+Author: jroiceee <94068264+jroiceee@users.noreply.github.com>
+Date:   Fri Feb 25 11:35:32 2022 +0800
+
+    Delete fuck.txt
+
+[33mcommit 992ce80db8de00f7403a4daf7c03eeafc854e9ec[m
+Author: roice <jroicealdeza@gmail.com>
+Date:   Fri Feb 25 11:34:08 2022 +0800
+
+    .
+
+[33mcommit 0246e6a96228a21206b50cdf972c64060a39aed8[m
+Author: roice <jroicealdeza@gmail.com>
+Date:   Fri Feb 25 11:29:12 2022 +0800
+
+    sampleFile.txt
+
+[33mcommit ee6901628db330488cef5be459aae86871c3b236[m
+Author: roice <jroicealdeza@gmail.com>
+Date:   Fri Feb 25 11:11:20 2022 +0800
+
+    sampleFile.txt
+
+[33mcommit db854c369408a2d8c6143a59925e7c3826658ec4[m
+Author: jroiceee <94068264+jroiceee@users.noreply.github.com>
+Date:   Tue Feb 15 14:34:46 2022 +0800
+
+    Rename Site.html to index.html
+
+[33mcommit 28e393c18f474820b78dd8551fdbf66e91ba75a6[m
+Author: jroiceee <jroicealdeza@gmail.com>
+Date:   Tue Feb 15 14:29:33 2022 +0800
+
+    initial commit
